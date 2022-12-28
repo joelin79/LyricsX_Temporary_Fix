@@ -1,5 +1,7 @@
 # LyricsX_Temporary_Fix
-An AppleScript that restarts LyricsX whenever song changes. LyricsX will then be able to fetch the lyrics of each songs.
+An AppleScript fix for LyricsX's no lyrics bug 
+
+About: Restarts LyricsX whenever song changes. LyricsX will then be able to fetch the lyrics of each songs.
 
 ## Download
 
